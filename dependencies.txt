@@ -1,0 +1,10 @@
+// https://mvnrepository.com/artifact/org.powermock/powermock-module-junit4
+    testImplementation group: 'org.powermock', name: 'powermock-module-junit4', version: '1.6.4'
+// https://mvnrepository.com/artifact/org.powermock/powermock-api-mockito
+    testImplementation group: 'org.powermock', name: 'powermock-api-mockito', version: '1.6.4'
+    // https://mvnrepository.com/artifact/org.powermock/powermock-api-support
+    testImplementation group: 'org.powermock', name: 'powermock-api-support', version: '1.6.4'
+    // https://mvnrepository.com/artifact/org.powermock/powermock-core
+    testImplementation group: 'org.powermock', name: 'powermock-core', version: '1.6.4'
+// https://mvnrepository.com/artifact/org.powermock/powermock-reflect
+    testImplementation group: 'org.powermock', name: 'powermock-reflect', version: '1.6.4'

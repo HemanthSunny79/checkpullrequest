@@ -1,1 +1,1 @@
-how to use pull reqst
+how to use pull request
